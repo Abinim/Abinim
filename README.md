@@ -47,10 +47,8 @@ Hello! I’m **AbinimBibek**, a dedicated web developer passionate about craftin
 
 ## 📈 GitHub Stats
 
-
 ### **Overall Activity**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinim&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=dark)
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinim&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs)
 ### **Top Languages**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinim&layout=compact&theme=dark)
 
