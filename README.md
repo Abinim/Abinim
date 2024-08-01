@@ -32,8 +32,10 @@ Hi there! I'm **AbinimBibek**, a web developer passionate about creating innovat
 - [Portfolio](https://github.com/Abinim) 
 
 ## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs)
 
-![Abinim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinim&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=dark)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=dark)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinim&layout=compact&theme=dark)
