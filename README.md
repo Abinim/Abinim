@@ -1,16 +1,27 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**Abinim/Abinim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm AbinimBibek, a web developer with a passion for building interactive and user-friendly applications. Based in Cascais, Portugal, I specialize in full-stack development and enjoy creating projects that push the boundaries of web technology.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+
+- **Languages**: JavaScript, CSS, HTML
+- **Frameworks/Libraries**: React.js, Express.js
+- **Databases**: MongoDB
+- **Tools**: Postman, Netlify, Node.js, NPM
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/abinimbibek/)
+- [Twitter](https://x.com/Bibekkumarkark5)
+- [Portfolio](https://github.com/Abinim)
+
+## Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinim&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinim&layout=compact)
+
+---
+
+Thanks for stopping by! Feel free to check out my repositories and let’s connect. 😊
