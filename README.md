@@ -1,37 +1,35 @@
 # Welcome to My GitHub Profile! 👋
 
-![Header Image](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile) <!-- Replace with your own header image URL -->
 
-Hi there! I'm **AbinimBibek**, a passionate web developer based in Cascais, Portugal. I specialize in creating interactive and user-friendly applications that leverage cutting-edge technologies. My goal is to build solutions that push the boundaries of web technology and make a difference for users.
+
+Hi there! I'm **AbinimBibek**, a web developer passionate about creating innovative solutions and exploring fresh approaches. I focus on delivering high-quality work that truly stands out.
+
 
 ## 🚀 Technologies & Tools
 
-- **Languages**: JavaScript, CSS, HTML
-- **Frameworks/Libraries**: React.js, Express.js
-- **Databases**: MongoDB
-- **Tools**: Postman, Netlify, Node.js, NPM
+- **Languages**:
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black)
+  - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-## 🔧 Current Projects
+- **Frameworks/Libraries**:
+  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  - ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-Here are a few projects I'm excited about:
+- **Databases**:
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-- **[Project 1 Name](https://github.com/Abinim/Project1)**: A brief description of what this project is about. For example, "A web application for tracking fitness goals with real-time analytics."
-- **[Project 2 Name](https://github.com/Abinim/Project2)**: A brief description of what this project is about. For example, "A RESTful API for managing user data and authentication."
-- **[Project 3 Name](https://github.com/Abinim/Project3)**: A brief description of what this project is about. For example, "An interactive dashboard for visualizing business metrics."
-
-## 🌟 Featured Skills
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+- **Tools**:
+  - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+  - ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  - ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/abinimbibek/)
 - [Twitter](https://x.com/Bibekkumarkark5)
-- [Portfolio](https://github.com/Abinim) <!-- Consider linking to a personal website if available -->
+- [Portfolio](https://github.com/Abinim) 
 
 ## 📈 GitHub Stats
 
