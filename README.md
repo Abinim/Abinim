@@ -1,9 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-
-
-Hi there! I'm **AbinimBibek**, a web developer passionate about creating innovative solutions and exploring fresh approaches. I focus on delivering high-quality work that truly stands out.
-
+Hi there! I’m **AbinimBibek**, a web developer passionate about creating innovative solutions and exploring fresh approaches. I focus on delivering high-quality work that truly stands out.
 
 ## 🚀 Technologies & Tools
 
@@ -29,14 +26,11 @@ Hi there! I'm **AbinimBibek**, a web developer passionate about creating innovat
 
 - [LinkedIn](https://www.linkedin.com/in/abinimbibek/)
 - [Twitter](https://x.com/Bibekkumarkark5)
-- [Portfolio](https://github.com/Abinim) 
+- [Portfolio](https://github.com/Abinim)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs)
 
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=dark)
-
+![Abinim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinim&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinim&layout=compact&theme=dark)
 
