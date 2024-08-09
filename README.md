@@ -19,6 +19,8 @@ Hello! I’m **AbinimBibek**, a dedicated web developer passionate about craftin
     <h3>Frameworks & Libraries</h3>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" style="margin: 5px;" />
     <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin: 5px;" />
+
   </div>
 
   <!-- Databases Section -->
